@@ -1,2 +1,2 @@
 # MCE-Cattle-Farm
-As part of my Msc I was tasked to perform a MCE for Cavan. I chose to create a cattle farm.
+As part of my Msc I was tasked to perform a MCE for Cavan. I chose to create a cattle farm using criteria based on the Cavan County Council regulations on fertilizer use and Teagasc recommendations for farm specifications. It includes an analysis of Ireland's dairy and beef exports and an insight into the renewal Common Agricultural Policy by the EU, with the aim of justifying the choices throughout the project. I scored a B+ for this project. 
